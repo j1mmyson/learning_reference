@@ -6,8 +6,9 @@
 - #### [2021/04/07: 쿠키와 세션 개념](https://interconnection.tistory.com/74)
 - #### [2021/04/11: 웹서버 개발의 세션 전략](https://devhaks.github.io/2019/04/20/session-strategy/)
 
-### 기술 블로그
+### 블로그
 - #### 라이언 서버: <https://interconnection.tistory.com/>
+- #### GOM's Snippet : <https://gonippet.tistory.com/>
 
 
 ### 읽을거리
