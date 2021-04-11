@@ -10,6 +10,13 @@
 - #### 라이언 서버: <https://interconnection.tistory.com/>
 - #### GOM's Snippet : <https://gonippet.tistory.com/>
 
+### 책
+- #### ["Clean Code"(로버트 C.마틴)](http://www.yes24.com/Product/Goods/11681152)
+- #### ["Clean Architecture"(로버트 C.마틴)](http://www.yes24.com/Product/Goods/77283734)
+- #### ["소프트웨어 장인"(산드로 만쿠소)](http://www.yes24.com/Product/Goods/20461940?OzSrank=2)
+- #### ["개발자의 글쓰기"(김철수)](http://www.yes24.com/Product/Goods/79378905?OzSrank=1)
+- #### ["딥 워크"(칼 뉴포트)](http://www.yes24.com/Product/Goods/38286918)
+- #### ["Tucker의 Go언어 프로그래밍"(공봉식)](http://www.yes24.com/Product/Goods/99108736)
 
 ### 읽을거리
 
