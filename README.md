@@ -6,6 +6,7 @@
 - [Using Go's Embed Package to Build a Small Webpage](https://medium.com/@leo_hetsch/using-gos-embed-package-to-build-a-small-webpage-6175953fccea)
 - [미들웨어(middle ware)란?](https://12bme.tistory.com/289)
 - [REST란? REST API란? REST-ful이란?](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)
+- [Path param vs Query pram](https://ryan-han.com/post/translated/pathvariable_queryparam/)
 
 ### 데이터베이스
 
@@ -17,12 +18,18 @@
   - [깃 브랜치를 사용해보자](https://backlog.com/git-tutorial/kr/stepup/stepup2_3.html)
 - [브랜치의 종류 및 사용법(5가지)](https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html)
 
+### Q&A
+
+- [golang: embed file server](https://www.reddit.com/r/golang/comments/lqosaw/issue_with_htmltemplate_pointing_to_embedded_css/)
+- [golang에서 프레임워크 없이 path parameter 받기](https://stackoverflow.com/questions/34314975/go-get-path-parameters-from-http-request)
+
 ### 블로그
 
   - 라이언 서버: <https://interconnection.tistory.com/>
   - GOM's Snippet : <https://gonippet.tistory.com/>
 - 해커의 개발일기: <https://bourbonkk.tistory.com/>
 - soyoung_new_challenge: <https://soyoung-new-challenge.tistory.com/>
+- 바미`s 코딩일기: <https://codesk.tistory.com/>
 
 ### 책
 
