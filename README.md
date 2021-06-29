@@ -8,6 +8,16 @@
 - [REST란? REST API란? REST-ful이란?](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)
 - [Path param vs Query pram](https://ryan-han.com/post/translated/pathvariable_queryparam/)
 
+### Network
+
+- [웹 소켓 통신](https://caileb.tistory.com/185)
+- [웹 소켓에 대해 알아보자](https://woowacourse.github.io/javable/post/2020-09-20-websocket/)
+
+### Golang
+
+- [Build a realtime chat server with golang and web sockets](https://scotch.io/bar-talk/build-a-realtime-chat-server-with-go-and-websockets)
+- [GolangCode](https://golangcode.com/)
+
 ### 데이터베이스
 
 - [What is ORM? & Why you should use it](https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a)
@@ -22,6 +32,10 @@
 
 - [golang: embed file server](https://www.reddit.com/r/golang/comments/lqosaw/issue_with_htmltemplate_pointing_to_embedded_css/)
 - [golang에서 프레임워크 없이 path parameter 받기](https://stackoverflow.com/questions/34314975/go-get-path-parameters-from-http-request)
+
+### OS
+
+- [Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
 ### 블로그
 
