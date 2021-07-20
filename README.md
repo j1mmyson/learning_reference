@@ -7,6 +7,7 @@
 - [미들웨어(middle ware)란?](https://12bme.tistory.com/289)
 - [REST란? REST API란? REST-ful이란?](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)
 - [Path param vs Query pram](https://ryan-han.com/post/translated/pathvariable_queryparam/)
+- [Contents-Type Header 와 Accept Header의 차이점](https://webstone.tistory.com/66)
 
 ### Network
 
@@ -17,11 +18,13 @@
 
 - [Build a realtime chat server with golang and web sockets](https://scotch.io/bar-talk/build-a-realtime-chat-server-with-go-and-websockets)
 - [GolangCode](https://golangcode.com/)
+- [how to build a rest api using gin+gorm](https://blog.logrocket.com/how-to-build-a-rest-api-with-golang-using-gin-and-gorm/)
 
 ### 데이터베이스
 
 - [What is ORM? & Why you should use it](https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a)
 - [GORM 한국어 문서](https://gorm.io/ko_KR/docs/create.html)
+- [working with related tables](https://fmhelp.filemaker.com/help/18/fmp/en/index.html#page/FMP_Help%2Frelated-tables-files.html%23)
 
 ### Git
 
@@ -58,3 +61,4 @@
 ### 읽을거리
 
   - [소프트웨어 환멸감](https://muchtrans.com/translations/software-disenchantment.ko.html)
+  - [vscode 디버깅 튜토리얼](https://demun.github.io/vscode-tutorial/debug/)
