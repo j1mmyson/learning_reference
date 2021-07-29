@@ -8,11 +8,13 @@
 - [REST란? REST API란? REST-ful이란?](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)
 - [Path param vs Query pram](https://ryan-han.com/post/translated/pathvariable_queryparam/)
 - [Contents-Type Header 와 Accept Header의 차이점](https://webstone.tistory.com/66)
+- [Getting Started with AJAX](https://developer.mozilla.org/ko/docs/Web/Guide/AJAX/Getting_Started)
 
 ### Network
 
 - [웹 소켓 통신](https://caileb.tistory.com/185)
 - [웹 소켓에 대해 알아보자](https://woowacourse.github.io/javable/post/2020-09-20-websocket/)
+- [HTTPS와 SSL 인증서, SSL 동작방법](https://wayhome25.github.io/cs/2018/03/11/ssl-https/)
 
 ### Golang
 
@@ -25,6 +27,11 @@
 - [What is ORM? & Why you should use it](https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a)
 - [GORM 한국어 문서](https://gorm.io/ko_KR/docs/create.html)
 - [working with related tables](https://fmhelp.filemaker.com/help/18/fmp/en/index.html#page/FMP_Help%2Frelated-tables-files.html%23)
+- [mongoDB 설치](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
+- [mongoDB 궁금점](https://www.mongodb.com/community/forums/t/projection-does-not-allow-exclusion-inclusion-together/31756)
+- [mongoDB 튜토리얼](https://velopert.com/category/dev-log/tech-log/mongodb)
+- [우아한 Redis - Slide Share](https://www.slideshare.net/charsyam2/redis-196314086)
+- [Redis란 무엇일까?](https://velog.io/@hyeondev/Redis-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 
 ### Git
 
@@ -35,6 +42,7 @@
 
 - [golang: embed file server](https://www.reddit.com/r/golang/comments/lqosaw/issue_with_htmltemplate_pointing_to_embedded_css/)
 - [golang에서 프레임워크 없이 path parameter 받기](https://stackoverflow.com/questions/34314975/go-get-path-parameters-from-http-request)
+- [Local storage vs Cookies](https://stackoverflow.com/questions/3220660/local-storage-vs-cookies)
 
 ### OS
 
@@ -57,6 +65,7 @@
   - ["개발자의 글쓰기"(김철수)](http://www.yes24.com/Product/Goods/79378905?OzSrank=1)
   - ["딥 워크"(칼 뉴포트)](http://www.yes24.com/Product/Goods/38286918)
 - ["Tucker의 Go언어 프로그래밍"(공봉식)](http://www.yes24.com/Product/Goods/99108736)
+- [e-book "Learn go with tests"](https://miryang.gitbook.io/learn-go-with-tests/)
 
 ### 읽을거리
 
