@@ -15,12 +15,21 @@
 - [웹 소켓 통신](https://caileb.tistory.com/185)
 - [웹 소켓에 대해 알아보자](https://woowacourse.github.io/javable/post/2020-09-20-websocket/)
 - [HTTPS와 SSL 인증서, SSL 동작방법](https://wayhome25.github.io/cs/2018/03/11/ssl-https/)
+- [NDC2018-golang으로 network 프로그래밍 하기](http://ndcreplay.nexon.com/NDC2018/sessions/NDC2018_0023.html)
 
 ### Golang
 
 - [Build a realtime chat server with golang and web sockets](https://scotch.io/bar-talk/build-a-realtime-chat-server-with-go-and-websockets)
 - [GolangCode](https://golangcode.com/)
 - [how to build a rest api using gin+gorm](https://blog.logrocket.com/how-to-build-a-rest-api-with-golang-using-gin-and-gorm/)
+
+### GraphQL
+
+- [GraphQL-시작하기](https://velog.io/@yhg0337/GraphQL)
+
+### Type Script
+
+- [What is TypeScript?](https://serokell.io/blog/why-typescript)
 
 ### 데이터베이스
 
@@ -55,6 +64,7 @@
 - 해커의 개발일기: <https://bourbonkk.tistory.com/>
 - soyoung_new_challenge: <https://soyoung-new-challenge.tistory.com/>
 - 바미`s 코딩일기: <https://codesk.tistory.com/>
+- jacking 75 - online game server programmer : <https://jacking75.github.io/>
 
 ### 책
 
