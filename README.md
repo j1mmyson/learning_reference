@@ -23,9 +23,19 @@
 - [GolangCode](https://golangcode.com/)
 - [how to build a rest api using gin+gorm](https://blog.logrocket.com/how-to-build-a-rest-api-with-golang-using-gin-and-gorm/)
 
+### node.js
+
+- [Node.js Best Practices](https://www.codementor.io/@mattgoldspink/nodejs-best-practices-du1086jja)
+- [TDD with node.js](https://loy124.tistory.com/364?category=833358)
+
 ### GraphQL
 
 - [GraphQL-시작하기](https://velog.io/@yhg0337/GraphQL)
+
+### Vue.js
+
+- [Vue Document](https://kr.vuejs.org/v2/guide/index.html)
+- 
 
 ### Type Script
 
@@ -46,6 +56,7 @@
 
   - [깃 브랜치를 사용해보자](https://backlog.com/git-tutorial/kr/stepup/stepup2_3.html)
 - [브랜치의 종류 및 사용법(5가지)](https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html)
+- [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
 
 ### Q&A
 
@@ -60,11 +71,12 @@
 ### 블로그
 
   - 라이언 서버: <https://interconnection.tistory.com/>
-  - GOM's Snippet : <https://gonippet.tistory.com/>
+  - GOM's Snippet: <https://gonippet.tistory.com/>
 - 해커의 개발일기: <https://bourbonkk.tistory.com/>
 - soyoung_new_challenge: <https://soyoung-new-challenge.tistory.com/>
 - 바미`s 코딩일기: <https://codesk.tistory.com/>
-- jacking 75 - online game server programmer : <https://jacking75.github.io/>
+- jacking 75 - online game server programmer: <https://jacking75.github.io/>
+- CAPTAIN @ PANGYO: <https://joshua1988.github.io/>
 
 ### 책
 
@@ -81,3 +93,8 @@
 
   - [소프트웨어 환멸감](https://muchtrans.com/translations/software-disenchantment.ko.html)
   - [vscode 디버깅 튜토리얼](https://demun.github.io/vscode-tutorial/debug/)
+  - [Google Style Guide (Code Convention) ](https://google.github.io/styleguide/)
+  - [Airbnb JavaScript 스타일 가이드](https://github.com/parksb/javascript-style-guide)
+  - [GCP ACE sample questions](https://gcp-examquestions.com/gcp-associate-cloud-engineer-practice-exam-part-1/)
+  - [gcp dump questions](https://blog.naver.com/kroa/222235702688)
+  - [클라우드 펑션과 스케줄러를 활용하여 크롤링 자동화하기](https://izy.codes/crawling-google-cloud-functions-scheduler/)
