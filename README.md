@@ -9,6 +9,7 @@
 - [Path param vs Query pram](https://ryan-han.com/post/translated/pathvariable_queryparam/)
 - [Contents-Type Header 와 Accept Header의 차이점](https://webstone.tistory.com/66)
 - [Getting Started with AJAX](https://developer.mozilla.org/ko/docs/Web/Guide/AJAX/Getting_Started)
+- [OAuth 2.0 개념정리](https://inpa.tistory.com/entry/WEB-%F0%9F%93%9A-OAuth-20-%EA%B0%9C%EB%85%90-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC)
 
 ### Network
 
